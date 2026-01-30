@@ -1,0 +1,5 @@
+{
+  "name": "UniQuest: AI Assessment Generator",
+  "description": "A sophisticated academic tool that generates university-level quizzes strictly from lecture notes using the Gemini 3 API.",
+  "requestFramePermissions": []
+}
